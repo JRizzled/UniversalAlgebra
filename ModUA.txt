@@ -1,0 +1,3 @@
+Magic Square problem in python
+Modular arithmetic
+Automated sudoko

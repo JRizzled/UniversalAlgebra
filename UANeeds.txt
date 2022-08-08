@@ -1,0 +1,6 @@
+Generate XML Files that will work in UA Calculator in Python. 
+Code should complete specifications by user. 
+Simple Excercise - 
+Input: n
+Output: XML Code for m_(n)
+Code: Add node in right place, run code in UA Calc. 
